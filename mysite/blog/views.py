@@ -95,3 +95,4 @@ class PostListView(ListView):
     context_object_name = 'posts'
     paninate_by = 3
     template_name = 'blog/post/list.html'
+
